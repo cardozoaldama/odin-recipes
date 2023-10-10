@@ -23,6 +23,10 @@ h2, h3 {
     text-align: center;
 }
 
+.title-content {
+    text-align: left;
+}
+
 a {
     color: white;
 }
